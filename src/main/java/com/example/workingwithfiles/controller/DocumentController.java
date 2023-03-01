@@ -13,7 +13,6 @@ import java.nio.file.Path;
 import java.util.HashMap;
 
 @RestController
-@RequestMapping("dir")
 public class DocumentController {
 
     @Autowired
